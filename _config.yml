@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+title: ADEM
+description: Amicale des Etudiants en Mathématique
+
+github:
+  is_project_page: false
