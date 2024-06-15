@@ -1,2 +1,2 @@
-# adem.u-strasbg.fr
+# ADEM
 Amicale des Etudiants en Mathématique
